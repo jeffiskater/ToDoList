@@ -5,17 +5,18 @@ Overview
 
 This is a basic android app developed for the hw1 of EEP523 at the University of Washington. Users can add tasks to their ToDoList and set the time of the task. The app has following features: 
 
-• A button to add new Task Items to the list.
-• A button to Remove items from the list.
-• The ability to display the number of items in the list.
-• Add Time Deadline to Task Item using Time Picker Dialog.
+- A button to add new Task Items to the list.
+- A button to Remove items from the list.
+- The ability to display the number of items in the list.
+- Add Time Deadline to Task Item using Time Picker Dialog.
 
 Time spent
 ===
-• 2 hours spent on setting up the basic layout of the app
-• 2 hours dedicated to implementing the onclick function
-• 2.5 hours allocated to debugging
-• 1 hour focused on refining the layout
+
+- 2 hours spent on setting up the basic layout of the app
+- 2 hours dedicated to implementing the onclick function
+- 2.5 hours allocated to debugging
+- 1 hour focused on refining the layout
 
 Total: 7.5 hours
 
@@ -37,7 +38,7 @@ Initially, I was unsure how to invoke the Time Picker Dialog component. I resolv
 Sources:
 ===
 
-• [ChatGPT](https://chat.openai.com/) (For information and code examples)
-• [AndroidDeveloper]https://developer.android.com/reference/android/app/TimePickerDialog
-• [StackOverflow]https://stackoverflow.com/questions/2115758/how-do-i-display-an-alert-dialog-on-android
-• [KotlinDocumentation]https://kotlinlang.org/docs/home.html
+- [ChatGPT](https://chat.openai.com/) (For information and code examples)
+- [AndroidDeveloper]https://developer.android.com/reference/android/app/TimePickerDialog
+- [StackOverflow]https://stackoverflow.com/questions/2115758/how-do-i-display-an-alert-dialog-on-android
+- [KotlinDocumentation]https://kotlinlang.org/docs/home.html
